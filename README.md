@@ -6,7 +6,7 @@ RG JOBS RESEARCH is a simple, user-friendly dashboard designed to help people di
 
 🚀 Live Demo
 
-"Open RG JOBS RESEARCH" (https://YOUR-USERNAME.github.io/rg-jobs-research/)
+"Open RG JOBS RESEARCH" (https://mystery-is-history.github.io/rg-jobs-research/)
 
 Replace "YOUR-USERNAME" with your GitHub username.
 
